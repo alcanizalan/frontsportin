@@ -1,4 +1,3 @@
-// Daniel Zanón Rodas
 export interface comentarioartModel {
     id: number
     contenido: string
